@@ -18,18 +18,18 @@ Ask natural language questions about the **Union Budget 2025**, and get intellig
 
 ## 📂 **Project Structure**
 
-1️⃣ **Clone the repo**
+✅ **Clone the repo**
 - git clone https://github.com/your-username/your-repo.git
 - cd your-repo
-2️⃣ **Create virtual environment (optional)**
+✅ **Create virtual environment (optional)**
 - python -m venv venv
 - source venv/bin/activate   # on macOS/Linux
 - venv\Scripts\activate      # on Windows
-3️⃣ **Install dependencies**
+✅ **Install dependencies**
 - pip install -r requirements.txt
-4️⃣ **Run Streamlit app**
+✅ **Run Streamlit app**
 - streamlit run app.py
-5️⃣ **Open your browser and ask any question about the Budget Speech!**
+✅ **Open your browser and ask any question about the Budget Speech!**
 
 
 ## 📂 **Chatbot Link**
