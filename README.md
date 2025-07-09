@@ -8,8 +8,8 @@ Ask natural language questions about the **Union Budget 2025**, and get intellig
 
 ## 🚀 **How It Works**
 
-✅ Loads a PDF file
-✅ Splits the text into overlapping chunks for semantic search  
+✅ Loads a PDF file.
+✅ Splits the text into overlapping chunks for semantic search. 
 ✅ Embeds the chunks with `sentence-transformers`  
 ✅ Stores them in a local **FAISS vector store**  
 ✅ Uses a **lightweight open-source LLM**  to generate final answers based on the retrieved context
@@ -21,14 +21,18 @@ Ask natural language questions about the **Union Budget 2025**, and get intellig
 ✅ **Clone the repo**
 - git clone https://github.com/your-username/your-repo.git
 - cd your-repo
+  
 ✅ **Create virtual environment (optional)**
 - python -m venv venv
 - source venv/bin/activate   # on macOS/Linux
 - venv\Scripts\activate      # on Windows
+
 ✅ **Install dependencies**
 - pip install -r requirements.txt
+  
 ✅ **Run Streamlit app**
 - streamlit run app.py
+  
 ✅ **Open your browser and ask any question about the Budget Speech!**
 
 
